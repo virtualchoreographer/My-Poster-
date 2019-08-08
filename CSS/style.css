@@ -1,0 +1,51 @@
+.container{
+  position: static;
+  background: #B9B9B9;
+  height: 80vh;
+  width:30vw;
+  text-align:center;
+  font-family: 'Lexend Zetta', sans-serif;
+  /*display:inline-block;*/
+}
+
+.MATHETA{
+/*text-align: center;*/
+width:300px;
+display:inline-block;
+background-color:red;
+color:yellow;
+margin-top: 20%;
+font-size:250%;
+}
+
+.MATHETA:hover{
+  transform:scale(1,2);
+}
+
+.Dance{
+  width:300px;
+  display:inline-block;
+  background-color:yellow;
+  color:red;
+  margin: 0px 0px 50px 0px;
+/*text-align:center;*/
+}
+
+.Dance:hover{
+  transform:scale(1,2);
+}
+
+.missionStatement{
+  width:80%;
+  display:inline-block;
+  background-color:#554D4D;
+  color:white;
+  font-size:10%;
+  margin: 50px 0px 0px 0px;
+  text-align: center;
+/*text-align: justify;*/
+}
+
+.missionStatement:hover{
+transform:scale(1,2);
+}
