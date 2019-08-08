@@ -1,5 +1,5 @@
 .container{
-  position: static;
+  position: relative;
   background: #B9B9B9;
   height: 80vh;
   width:30vw;
@@ -19,7 +19,7 @@ font-size:250%;
 }
 
 .MATHETA:hover{
-  transform:scale(1,2);
+  transform:scale(1,2,1,2);
 }
 
 .Dance{
