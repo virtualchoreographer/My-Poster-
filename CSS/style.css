@@ -3,6 +3,8 @@
   background: #B9B9B9;
   height: 80vh;
   width:30vw;
+  top:10vh;
+  left:35vw;
   text-align:center;
   font-family: 'Lexend Zetta', sans-serif;
   /*display:inline-block;*/
@@ -19,7 +21,7 @@ font-size:250%;
 }
 
 .MATHETA:hover{
-  transform:scale(1,2,1,2);
+  transform:scale(1,2);
 }
 
 .Dance{
